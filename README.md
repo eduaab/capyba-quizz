@@ -6,6 +6,9 @@ O Capyba Quizz é um jogo de perguntas e respostas que visa promover a cultura l
 
 ## Como funciona?
 
+# Tela Inicial
+![Tela inicial](imagens/telabemvindo.png)
+
 
 
 
