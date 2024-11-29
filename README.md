@@ -7,10 +7,7 @@ O **Capyba Quizz** é um jogo de perguntas e respostas que visa promover a cultu
 ## Como funciona?
 
 ### Tela Inicial
-Na tela inicial, o jogador é recebido pela mensagem: **"Bem-vindo ao Capyba Quizz"**. Para iniciar o jogo, ele deve escolher entre as opções **"Sim"** ou **"Não"**:
-
-- **Sim:** Inicia o jogo.
-- **Não:** Retorna à tela inicial ou fecha o programa.
+Na tela inicial, o jogador é recebido pela mensagem: **"Bem-vindo ao Capyba Quizz"**. Para iniciar o jogo, ele deve apertar o botão de **"Sim"** ou **"Não"** para começar o quiz:
 
 ![Tela inicial](imagens/telabemvindo.jpg)
 
