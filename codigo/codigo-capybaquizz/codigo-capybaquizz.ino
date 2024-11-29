@@ -112,7 +112,9 @@ void mostrarQuestao4() {
   lcd20x4.setCursor(0, 1);
   lcd20x4.print("A Emparedada da");
   lcd20x4.setCursor(0, 2);
-  lcd20x4.print("Rua Nova ficou gravida?");
+  lcd20x4.print("Rua Nova ficou");
+  lcd20x4.setCursor(0, 3);
+  lcd20x4.print(" gravida?");
 }
 
 void mostrarQuestao5() {
@@ -122,7 +124,9 @@ void mostrarQuestao5() {
   lcd20x4.setCursor(0, 1);
   lcd20x4.print("Brennand fez o");
   lcd20x4.setCursor(0, 2);
-  lcd20x4.print("Parque das Esculturas?");
+  lcd20x4.print("Parque das ");
+  lcd20x4.setCursor(0, 3);
+  lcd20x4.print("Esculturas?");
 }
 void mostrarQuestao6() {
   lcd20x4.clear();
@@ -156,9 +160,11 @@ void mostrarQuestao9() {
   lcd20x4.setCursor(0, 0);
   lcd20x4.print("Questao 9:");
   lcd20x4.setCursor(0, 1);
-  lcd20x4.print("Recife influenciado");
+  lcd20x4.print("A estrutura Recifense");
   lcd20x4.setCursor(0, 2);
-  lcd20x4.print("por Espanha e Alemanha?");
+  lcd20x4.print("foi influenciada por");
+  lcd20x4.setCursor(0, 3);
+  lcd20x4.print("Espanha e Alemanha?");
 }
 void mostrarQuestao10() {
   lcd20x4.clear();
