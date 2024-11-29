@@ -35,7 +35,7 @@ Para cada resposta correta, o jogador ganha pontos. No final, é exibido um resu
 
 2. **Tela Inicial:**
    - Leia a mensagem de boas-vindas.
-   - Clique em **"Sim"** para iniciar ou **"Não"** para sair.
+   - Clique em **"Sim"** ou **"Não"** para iniciar.
 
 3. **Responda as Perguntas:**
    - Leia cada pergunta exibida na tela.
